@@ -151,15 +151,6 @@
             "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/Black_light_grass .jpeg",
             "stock": 12,
                "sizes": ""
-          },
-          {
-            
-            "name": "Black Sec  ",
-            "price": 550,
-            "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/Black_sec.jpeg",
-            "stock": 12,
-               "sizes": ""
           }
     ]
 }
