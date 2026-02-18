@@ -1,13 +1,7 @@
 {
     "products":
     [
-        {
-            "name": "Training Hoodie",
-            "price": 900,
-            "category": "clothing",
-            "image": "hoodie.jpg",
-            "stock": 20
-          }, 
+        
           {
             "name": "BLACK-LOAFER-BELT",
             "price": 600,
@@ -40,35 +34,35 @@
             "name": "Grey Rubber Band",
             "price": 360,
             "category": "watch",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/Grey-rubber-band.jpg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/Grey-rubber-band.jpg",
             "stock": 12
           },
           {
             "name": "M Loafers",
             "price": 600,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/LOAFER-AND-DETAIL.jpg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/LOAFER-AND-DETAIL.jpg",
             "stock": 12
           },  
           {
             "name": "Crock Loafers",
             "price": 550,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/LOAFERS.jpg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/LOAFERS.jpg",
             "stock": 12
           },
           {
             "name": "Silver Stainless",
             "price": 550,
             "category": "watches",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/SILVER-STAINLESS.jpg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/SILVER-STAINLESS.jpg",
             "stock": 12
           },
           {
             "name": "Black Sec",
             "price": 550,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/blackshoe.jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/blackshoe.jpeg",
             "stock": 12
           },
           {
@@ -76,14 +70,14 @@
             "name": "Stripped Belem",
             "price": 650,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/brown-shoe.jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/brown-shoe.jpeg",
             "stock": 12
           },
           {
             "name": "Silver Gold Stainless",
             "price": 360,
             "category": "watches",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/watch.jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/watch.jpeg",
             "stock": 12
           },
           {
@@ -91,7 +85,7 @@
             "name": "Silver Gold Stainless",
             "price": 380,
             "category": "watches",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/watch.jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/watch.jpeg",
             "stock": 12
           },
           {
@@ -99,7 +93,7 @@
             "name": "White Line Sec",
             "price": 650,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/White_line_sec.jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/White_line_sec.jpeg",
             "stock": 15
           },
           {
@@ -115,7 +109,7 @@
             "name": "Brown belt ",
             "price": 600,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/Brown_belt .jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/Brown_belt .jpeg",
             "stock": 11
           }, 
           {
@@ -123,7 +117,7 @@
             "name": "Semi doted  ",
             "price": 600,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/Semi_doted  .jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/Semi_doted  .jpeg",
             "stock": 18
           },
           {
@@ -131,7 +125,7 @@
             "name": "M loafers  ",
             "price": 600,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/M_loafers.jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/M_loafers.jpeg",
             "stock": 12
           }, 
           {
@@ -139,7 +133,7 @@
             "name": "Black Light Grass  ",
             "price": 600,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/Black_light_grass .jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/Black_light_grass .jpeg",
             "stock": 12
           },
           {
@@ -147,7 +141,7 @@
             "name": "Black Sec  ",
             "price": 550,
             "category": "shoes",
-            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/picture.json/Black_sec.jpeg",
+            "image": "https://siphokuhlenyana.github.io/GPAURA-PCS/picture.json/Black_sec.jpeg",
             "stock": 12
           }
     ]
